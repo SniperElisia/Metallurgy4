@@ -1,8 +1,8 @@
-itemGroup.Metallurgy.Machines=메탈러지 기계[Metallurgy Machines]
-itemGroup.Metallurgy.Blocks=메탈러지 블럭[Metallurgy Blocks]
-itemGroup.Metallurgy.Items=메탈러지 아이템[Metallurgy Items]
-itemGroup.Metallurgy.Tools=메탈러지 도구[Metallurgy Tools]
-itemGroup.Metallurgy.Armor=메탈러지 갑옷[Metallurgy Armor]
+itemGroup.Metallurgy.Machines=메탈러지 기계
+itemGroup.Metallurgy.Blocks=메탈러지 블럭
+itemGroup.Metallurgy.Items=메탈러지 아이템
+itemGroup.Metallurgy.Tools=메탈러지 도구
+itemGroup.Metallurgy.Armor=메탈러지 갑옷
 
 tile.machine.frame.name=기계 틀
 
@@ -227,20 +227,20 @@ item.metallurgy.oureclase.chestplate.name=오우레클라세 갑옷
 item.metallurgy.oureclase.leggings.name=오우레클라세 레깅스
 item.metallurgy.oureclase.boots.name=오우레클라세 부츠
 
-tile.metallurgy.astral.silver.ore.name=항성은 광석
-tile.metallurgy.astral.silver.block.name=항성은 블럭
-tile.metallurgy.astral.silver.brick.name=항성은 벽돌
-item.metallurgy.astral.silver.dust.name=항성은 가루
-item.metallurgy.astral.silver.ingot.name=항성은 주괴
-item.metallurgy.astral.silver.axe.name=항성은 도끼
-item.metallurgy.astral.silver.hoe.name=항성은 괭이
-item.metallurgy.astral.silver.pickaxe.name=항성은아스트랄 실버 곡괭이
-item.metallurgy.astral.silver.shovel.name=항성은 삽
-item.metallurgy.astral.silver.sword.name=항성은 검
-item.metallurgy.astral.silver.helmet.name=항성은 투구
-item.metallurgy.astral.silver.chestplate.name=항성은 갑옷
-item.metallurgy.astral.silver.leggings.name=항성은 레깅스
-item.metallurgy.astral.silver.boots.name=항성은 부츠
+tile.metallurgy.astral.silver.ore.name=성은 광석
+tile.metallurgy.astral.silver.block.name=성은 블럭
+tile.metallurgy.astral.silver.brick.name=성은 벽돌
+item.metallurgy.astral.silver.dust.name=성은 가루
+item.metallurgy.astral.silver.ingot.name=성은 주괴
+item.metallurgy.astral.silver.axe.name=성은 도끼
+item.metallurgy.astral.silver.hoe.name=성은 괭이
+item.metallurgy.astral.silver.pickaxe.name=성은 곡괭이
+item.metallurgy.astral.silver.shovel.name=성은 삽
+item.metallurgy.astral.silver.sword.name=성은 검
+item.metallurgy.astral.silver.helmet.name=성은 투구
+item.metallurgy.astral.silver.chestplate.name=성은 갑옷
+item.metallurgy.astral.silver.leggings.name=성은 레깅스
+item.metallurgy.astral.silver.boots.name=성은 부츠
 
 tile.metallurgy.carmot.ore.name=카르못 광석
 tile.metallurgy.carmot.block.name=카르못 블럭
@@ -779,7 +779,7 @@ item.metallurgy.bucket.filled.vulcanite.molten.name=녹은 불카나이트 양�
 item.metallurgy.bucket.filled.vyroxeres.molten.name=녹은 비록케레스 양동이
 
 item.metallurgy.bucket.filled.adamantine.molten.name=녹은 아다만틴 양동이
-item.metallurgy.bucket.filled.astral.silver.molten.name=녹은 항성은 양동이
+item.metallurgy.bucket.filled.astral.silver.molten.name=녹은 성은 양동이
 item.metallurgy.bucket.filled.atlarus.molten.name=녹은 아틀라루스 양동이
 item.metallurgy.bucket.filled.black.steel.molten.name=녹은 흑강 양동이
 item.metallurgy.bucket.filled.carmot.molten.name=녹은 카르못 양동이
